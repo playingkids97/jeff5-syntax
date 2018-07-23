@@ -1,0 +1,15 @@
+{
+  "name": "jeff5-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "My own favorite theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/playingkids97/jeff5-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
